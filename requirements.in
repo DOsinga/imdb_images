@@ -1,4 +1,6 @@
-black
-requests
-pillow
+argument-clinic
 beautifulsoup4
+black
+dlib
+pillow
+requests

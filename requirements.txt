@@ -5,12 +5,15 @@
 #    pip-compile
 #
 appdirs==1.4.3            # via black
+argument-clinic==0.12
 attrs==19.3.0             # via black
 beautifulsoup4==4.8.1
 black==19.10b0
 certifi==2019.9.11        # via requests
 chardet==3.0.4            # via requests
 click==7.0                # via black
+dlib==19.18.0
+docstring-parser==0.3     # via argument-clinic
 idna==2.8                 # via requests
 pathspec==0.6.0           # via black
 pillow==6.2.1
